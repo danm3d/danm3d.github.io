@@ -7,7 +7,6 @@ I am currently working in education, teaching 3D modeling and animation using Bl
 
 ***
 
-## 
 ## Work Experience
 
 ***
@@ -61,7 +60,6 @@ It was during this time when I began to attend the monthly MakeGamesSA meetups h
 
 ***
 
-## 
 ## Education
 ### BTech Information Technology: Software Development
 ### Nelson Mandela University
