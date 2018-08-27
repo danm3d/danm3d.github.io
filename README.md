@@ -12,7 +12,7 @@ I am currently working in education, teaching 3D modeling and animation using Bl
 ***
 
 ### Multimedia Course Coordinator
-### Emendy Multimedia Technology Institute
+### [Emendy Multimedia Technology Institute](https://emendy.co.za/)
 ##### February 2018 - Present
 I am responsible for facilitating the Game Development course at Emendy, as well as lecturing students in several modules including:
 - 3D modeling and animation using Blender. 
@@ -33,26 +33,26 @@ My responsibilities as coordinator include:
 ***
 
 ### Junior Software Engineer
-### 24 Bit Games
+### [24 Bit Games](http://24bitgames.com/)
 ##### July 2015 - January 2018
 24 Bit Games taught me an great deal of the skills that I still employ to this day. 
 With a focus on technical quality and modern game development standards, as well as a competent team, I was able to work on internationally and locally developed games for a multitude of platforms, including iOS, Android, PlayStation 4, Mac and Windows. 
 I had the opportunity to work on products for companies including Disney and Unity Technologies. 
 Products I have worked on include:
-- Tower Defense Starter Project (Unity Technologies, 2017)
-- Snailboy: Rise of Hermitron (Thoopid, 2017) iOS
-- Tanks!!! (Unity Technologies, 2016) iOS, Android, Windows and Mac
-- Frozen Storybook Deluxe (Disney, 2016) iOS and Android
-- Disney Princess Palace Pets (Disney, 2016) iOS and Android
-- Frozen Ice Puzzles (Disney, 2016) Android
-- Mickey’s Magical Math World (Disney, 2016) Android and iOS
-- Read with Doc: Word Building (Disney, 2016) iOS and Android
-- Read with Doc: Letters and Sounds (Disney, 2016) iOS and Android
+- [Tower Defense Template](https://unity3d.com/learn/tutorials/s/tower-defense-template) (Unity Technologies, 2017)
+- [Snailboy: Rise of Hermitron](http://snailboygame.com/) (Thoopid, 2017) iOS
+- [Tanks!!!](https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-reference-project-80165) (Unity Technologies, 2016) iOS, Android, Windows and Mac
+- [Frozen Storybook Deluxe](http://24bitgames.com/portfolio/frozen-storybook-deluxe/) (Disney, 2016) iOS and Android
+- [Disney Princess Palace Pets](http://24bitgames.com/portfolio/disney-princess-palace-pets/) (Disney, 2016) iOS and Android
+- [Frozen Ice Puzzles](http://24bitgames.com/portfolio/frozen-ice-puzzles/) (Disney, 2016) Android
+- [Donald's Number Launcher](http://24bitgames.com/portfolio/donalds-number-launcher/) (Disney, 2016) Android and iOS
+- [Read with Doc: Word Building](http://24bitgames.com/portfolio/read-with-doc-mcstuffins-2/) (Disney, 2016) iOS and Android
+- [Read with Doc: Letters and Sounds](http://24bitgames.com/portfolio/read-with-doc-mcstuffins/) (Disney, 2016) iOS and Android
 
 ***
 
 ### Development Intern
-### Microsoft AppFactory
+### [Microsoft AppFactory](https://www.microsoft.com/africa/4afrika/appfactory.aspx)
 ##### January 2015 - June 2015
 The AppFactory provided exposure to working in the software industry and taught skills that I still today. As an intern, I was tasked with the upkeep of the database of apps created through the program, and worked with several emerging technologies (for the time) including the Windows UWP Platform, Windows Phone and Windows 10.
 I was required to give app workshops and have given short courses on app development on Microsoft Platforms at educational institutions including Unisa, Nelson Mandela University and the University of Fort Hare.
@@ -62,7 +62,7 @@ It was during this time when I began to attend the monthly MakeGamesSA meetups h
 
 ## Education
 ### BTech Information Technology: Software Development
-### Nelson Mandela University
+### [Nelson Mandela University](https://www.mandela.ac.za/)
 #### 2011 - 2014
 I first learned how to make games in university, where I began tinkering with Microsoft's XNA Framework and Blender 3D, before being introduced to Unity towards the end of my second year. 
 
@@ -81,5 +81,5 @@ Made for Global Game Jam 2017
 Created by Cukia Kimani and Kevin Marais
 - [Planet vs. Planet](https://bighairgames.itch.io/planet-vs-planet) - A 3D multiplayer game about 2 planets tethered to one another. 
 Made for Ludum Dare 30
-- RoamAnts - A 3D co-operative game about ants in love. Created with Peter Furstenberg, Shaun Barnard and Lorenz Penkler. 
+- RoamAnts - A 3D co-operative game about ants who fuel their love with candy. Created with Peter Furstenberg, Shaun Barnard and Lorenz Penkler. 
 Made for the Emendy Game Jam 2018
