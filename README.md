@@ -1,11 +1,17 @@
 # Daniel Mendelowitz
+
 ***
+
 I am an experienced game and software developer currently working as an educator and course coordinator for a leading multimedia college in Pretoria, South Africa. I have been making games both as a hobby and a profession for 7 years and have a keen interest in 3D Art.
 I am currently working in education, teaching 3D modeling and animation using Blender, as well as game development in Unity. 
+
 ***
+
 ## 
 ## Work Experience
+
 ***
+
 ### Multimedia Course Coordinator
 ### Emendy Multimedia Technology Institute
 ##### February 2018 - Present
@@ -24,7 +30,9 @@ My responsibilities as coordinator include:
 - Liaising with parents, sponsors, lecturers and students to ensure smooth running of the course throughout the year. 
 - Development of expanded course content to ensure relevancy of the course going into the future. 
 - Upkeep of course content to adhere to the requirements of national education authorities
+
 ***
+
 ### Junior Software Engineer
 ### 24 Bit Games
 ##### July 2015 - January 2018
@@ -41,14 +49,18 @@ Products I have worked on include:
 - Mickey’s Magical Math World (Disney, 2016) Android and iOS
 - Read with Doc: Word Building (Disney, 2016) iOS and Android
 - Read with Doc: Letters and Sounds (Disney, 2016) iOS and Android
+
 ***
+
 ### Development Intern
 ### Microsoft AppFactory
 ##### January 2015 - June 2015
 The AppFactory provided exposure to working in the software industry and taught skills that I still today. As an intern, I was tasked with the upkeep of the database of apps created through the program, and worked with several emerging technologies (for the time) including the Windows UWP Platform, Windows Phone and Windows 10.
 I was required to give app workshops and have given short courses on app development on Microsoft Platforms at educational institutions including Unisa, Nelson Mandela University and the University of Fort Hare.
 It was during this time when I began to attend the monthly MakeGamesSA meetups held at the Microsoft Campus, which helpt push me towards a career in Game Development that I desperately sought after. 6 month into the internship, I was headhunted by Luke Lamothe to work at his company, 24 Bit Games.
+
 ***
+
 ## 
 ## Education
 ### BTech Information Technology: Software Development
@@ -61,7 +73,9 @@ In my third year of study, myeslf and 2 friends developed a project, simply titl
 In My fourth year, I created a game titled _"NETTED"_, a 3D side-scrolling puzzle platformer designed to educate players on digital information security and how to be safe in an online world.
 
 I recieved my National Diploma in 2013 and my BTech in 2014.
+
 ***
+
 ## Technical Experience
 I have worked on several game projects over the years, mostly in game jams. The following is a list of game jam games I have worked on:
 - [Welcome to the Ambassador](https://globalgamejam.org/2017/games/welcome-ambassador) - A small game about conducting an orchestra. I worked on small 3D assets. 
