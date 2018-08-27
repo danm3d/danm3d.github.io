@@ -1,9 +1,6 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 title: Daniel Mendelowitz
-description: Educator, Unity Developer, 3D Technical Art
-author:
-  name: Daniel Mendelowitz
-  twitter: DanMendelowitz
-  picture: https://drive.google.com/file/d/1WOysJ_Y91NzOycYa_SmzHIiofT5wQuYg/view?usp=sharing
+description: Educator, Unity Developer, Blender 3D Technical Art
+logo: https://drive.google.com/file/d/1WOysJ_Y91NzOycYa_SmzHIiofT5wQuYg/view?usp=sharing
 twitter_username: DanMendelowitz
 github_username: danm3d
