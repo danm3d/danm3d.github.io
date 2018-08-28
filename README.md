@@ -6,3 +6,4 @@ I am currently working in education, teaching 3D modeling and animation using Bl
 ***
 
 ## [My Résumé](docs/resume.md)
+## [LinkedIn](https://www.linkedin.com/in/daniel-mendelowitz-44939146)
