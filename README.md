@@ -1,5 +1,4 @@
-﻿# Daniel Mendelowitz
-##### Unity Game Developer, Software Engineer, 3D Generalist
+﻿#### Contact
 [Email](mailto:danmendelowitz@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-mendelowitz-44939146) | [Twitter](https://twitter.com/DanMendelowitz) | [GitHub](https://github.com/danm3d) | [Instagram](https://www.instagram.com/danm_3d/)
 
 #### Work Experience
