@@ -1,10 +1,7 @@
 # Daniel Mendelowitz
 ##### Unity Game Developer, Software Engineer, 3D Generalist
-[Email](mailto:danmendelowitz@gmail.com) |
-[LinkedIn](https://www.linkedin.com/in/daniel-mendelowitz-44939146) |
-[Twitter](https://twitter.com/DanMendelowitz) |
-[GitHub](https://github.com/danm3d) |
-[Instagram](https://www.instagram.com/danm_3d/)
+[Email](mailto:danmendelowitz@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-mendelowitz-44939146) | [Twitter](https://twitter.com/DanMendelowitz) | [GitHub](https://github.com/danm3d) | [Instagram](https://www.instagram.com/danm_3d/)
+
 #### Work Experience
 
 ##### Principal 3D Game Programmer at [Simulated Training Solutions](https://sts3d.co.za/) (April 2019 - Present)
@@ -14,13 +11,13 @@
 * Creating testing methodologies to improve QA workflows.
 * Performance optimization on existing projects.
 
-##### Multimedia Course Coordinator and Lecturer at [EMENDY Multimedia Technology Institute](https://emendy.co.za/) (February 2018 - March 2019)
+##### Multimedia Course Coordinator and Lecturer at [EMENDY](https://emendy.co.za/) (February 2018 - March 2019)
 * Developed a curriculum for a 3 year National Diploma in Game Design and Development.
 * Planning and coordination of lecturing staff, academic calendar, event planning and organization.
 * Creating marketing material to promote the college, hosting open day and game jam events.
 * Liaising with students and parents on a regular basis.
 
-Instructed the following subjects: 
+Instructed the following subjects:
 * 3D Modeling and Animation with Blender
 * Game Development with Unity
 * Game Design Theory
