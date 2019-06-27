@@ -1,5 +1,10 @@
 # Daniel Mendelowitz
 ##### Unity Game Developer, Software Engineer, 3D Generalist
+[Email](mailto:danmendelowitz@gmail.com) |
+[LinkedIn](https://www.linkedin.com/in/daniel-mendelowitz-44939146) |
+[Twitter](https://twitter.com/DanMendelowitz) |
+[GitHub](https://github.com/danm3d) |
+[Instagram](https://www.instagram.com/danm_3d/)
 #### Work Experience
 
 ##### Principal 3D Game Programmer at [Simulated Training Solutions](https://sts3d.co.za/) (April 2019 - Present)
@@ -64,12 +69,3 @@ Products I have worked on include:
 * [RoamAnts](https://danm3d.itch.io/roamants) (2018)
 * [Welcome to the Ambassador](https://globalgamejam.org/2017/games/welcome-ambassador) (2017)
 * [Planet vs Planet](https://bighairgames.itch.io/planet-vs-planet) (2014)
-
-***
-
-#### Find Me Online
-* :email: [Email](mailto:danmendelowitz@gmail.com)
-* :briefcase: [LinkedIn](https://www.linkedin.com/in/daniel-mendelowitz-44939146)
-* :bird: [Twitter](https://twitter.com/DanMendelowitz)
-* :octopus: [GitHub](https://github.com/danm3d)
-* :camera: [Instagram](https://www.instagram.com/danm_3d/)
